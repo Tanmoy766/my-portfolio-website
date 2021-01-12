@@ -1,0 +1,126 @@
+#title {
+  background-color: #222831
+}
+
+.container-fluid{
+  padding-left: 15%;
+  padding-right: 15%;
+  padding-bottom: 10%;
+}
+
+.title-text{
+  color: white;
+}
+
+.title-heading-text{
+  font-family: 'Open Sans', sans-serif;
+font-weight: bold;
+  font-size: 4rem;
+  padding-bottom: 30px;
+}
+
+.title-row{
+  margin-top: 200px;
+}
+
+.title-write{
+padding-left: 100px;
+padding-top: 130px;
+
+}
+
+.title-paragraph-text{
+  font-family: 'Open Sans', sans-serif;
+font-weight: normal;
+font-size: 1.6rem;
+color: #d3d1d1
+}
+
+.about-section-text{
+  font-family: 'Roboto', sans-serif;
+  font-weight: normal;
+  font-size: 1.2rem;
+  letter-spacing: 1px;
+  line-height: 30px;
+}
+
+.title-image{
+  text-align: center;
+}
+
+.spacing{
+letter-spacing: 10px;
+}
+
+.navbar-brand{
+  font-weight: bold;
+  font-size: 3rem;
+}
+
+.nav-item{
+  padding: 0 18px 0 18px;
+}
+
+.nav-link{
+  font-family: 'Open Sans', sans-serif;
+font-weight: bold;
+color: white;
+}
+
+.tanmoy{
+height: 450px;
+width: 465px;
+border-radius: 100%
+}
+
+
+
+
+/* #about{
+
+} */
+
+.container-fluid-about{
+  padding-left: 15%;
+  padding-right: 15%;
+  padding-bottom: 10%;
+  padding-top: 7%;
+  text-align: center;
+
+}
+
+.container-fluid-skill{
+  padding-left: 15%;
+  padding-right: 15%;
+  padding-bottom: 5%;
+  padding-top: 7%;
+  text-align: center;
+
+}
+
+.about-section{
+  color: #222831
+}
+
+.skill{
+  height: 100px;
+  width:100px;
+  border-radius: 10px;
+  margin-bottom: 100px;
+}
+
+
+
+.skills-heading{
+  margin-bottom: 70px;
+}
+
+
+#skills {
+  background-color: #222831;
+}
+
+
+#contact{
+    background-color: #222831;
+}
